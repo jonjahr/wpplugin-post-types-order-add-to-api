@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: Post Types Order: Add To REST API
+GitHub Plugin URI: jonjahr/wpplugin-post-types-order-add-to-api
 Plugin URI: https://github.com/jonjahr/wpplugin-post-types-order-add-to-api
 Description: Enable "orderby: menu_order" in the REST API, because it's not enabled by default.
 Version: 1.0
 Author: jonjahr
-Author URI: https://github.com/jonjahr/wpplugin-post-types-order-add-to-api
+Author URI: https://example.com
 Copyright: jonjahr
 Text Domain: jonjahr
 Domain Path: /lang
