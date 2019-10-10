@@ -1,0 +1,1 @@
+Wordpress plugin that enables "orderby: menu_order" in the REST API, because it's not enabled by default.
