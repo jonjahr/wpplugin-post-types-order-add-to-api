@@ -15,6 +15,7 @@ Domain Path: /lang
 ini_set('display_errors', '0');
 ini_set('display_startup_errors', '0');
 
+// Typical plugin organization.  Not needed for this plugin.
 // include_once 'includes/admin-customize.php';
 // include_once 'includes/post-types.php';
 // include_once 'includes/api.php';
